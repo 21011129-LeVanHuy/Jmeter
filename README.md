@@ -12,5 +12,5 @@
  - Sử dụng View Results Tree để kiểm thử
  - Kết quả trả về sẽ được lưu trên file Load.csv
 
-   C:\Users\ADMIN\OneDrive - Trường Đại học Phenikaa\Pictures\Screenshots\Screenshot 2024-05-30 090428.png
-   C:\Users\ADMIN\OneDrive - Trường Đại học Phenikaa\Pictures\Screenshots\Screenshot 2024-05-30 090559.png
+https://github.com/21011129-LeVanHuy/Jmeter/blob/main/Screenshot%202024-05-30%20090428.png
+https://github.com/21011129-LeVanHuy/Jmeter/blob/main/Screenshot%202024-05-30%20090559.png
