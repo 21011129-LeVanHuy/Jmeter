@@ -3,15 +3,24 @@
   + Simpli
     
     Severname or IP: www.simplilearn.com
-    Path:/
     
+    Path:/
+
+
   + Resources
+    
     Severname or IP: www.simplilearn.com
+    
     Path:/resources/
+
   + Corporate
+    
     Severname or IP: www.simplilearn.com
+ 
     Path: /corporate-training/
+    
  - Sử dụng View Results Tree để kiểm thử
+   
  - Kết quả trả về sẽ được lưu trên file Load.csv
 
 - Ảnh thực hiện test Jmeter
