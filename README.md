@@ -35,5 +35,7 @@ https://github.com/21011129-LeVanHuy/Jmeter/blob/main/Screenshot%202024-05-30%20
 Đánh giá qua JMeter:
 
 Hiệu suất: Trang web hoạt động tốt dưới tải trọng cao, tốc độ tải trang nhanh và mượt mà.
+
 Tính ổn định: Ít gặp lỗi hoặc gián đoạn trong quá trình sử dụng.
+
 Tối ưu hóa: Giao diện người dùng thân thiện, dễ dàng điều hướng và tìm kiếm thông tin.
